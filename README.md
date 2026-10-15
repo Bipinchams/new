@@ -41,5 +41,27 @@
 
 ---
 
+---
+
+<div align="center">
+
+## ⚔️ MY TECH ARSENAL
+
+### 💻 Programming & Database
+
+<img src="https://skillicons.dev/icons?i=js,java,html,css,mysql&theme=dark"
+     alt="JavaScript, Java, HTML, CSS, and MySQL">
+
+### 🎨 Design Crew
+
+Adobe Illustrator · Adobe Photoshop · Canva
+
+### 📊 Office Tools
+
+Microsoft Excel · Microsoft Word · Microsoft PowerPoint
+
+</div>
+
+
 
 
