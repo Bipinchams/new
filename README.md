@@ -63,5 +63,30 @@ Microsoft Excel · Microsoft Word · Microsoft PowerPoint
 </div>
 
 
+---
+
+<div align="center">
+
+## 🗺️ MY TREASURE CHEST
+
+*Every project is another adventure!*
+
+</div>
+
+### 💎 My Coding Adventures
+
+- 🌐 **Saitama Tourism Website**
+  - A tourism website introducing Saitama, built with HTML and CSS.
+- 💻 **JavaScript Practice**
+  - Small exercises to improve my programming skills.
+- 🎨 **Design Creations**
+  - Exploring graphic design with Adobe Illustrator, Photoshop, and Canva.
+
+<div align="center">
+
+**🚧 More adventures coming soon!**
+
+</div>
+
 
 
