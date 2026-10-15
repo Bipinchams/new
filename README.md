@@ -89,4 +89,24 @@ Microsoft Excel · Microsoft Word · Microsoft PowerPoint
 </div>
 
 
+---
+
+<div align="center">
+
+## 🏴‍☠️ CAPTAIN'S LOG
+
+*Tracking my adventures across the GitHub seas.*
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=bipinchams&show_icons=true&theme=tokyonight&hide_border=true"
+  alt="Bipin's GitHub statistics"
+  width="400">
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=bipinchams&layout=compact&theme=tokyonight&hide_border=true"
+  alt="Most used programming languages"
+  width="400">
+
+</div>
+
 
