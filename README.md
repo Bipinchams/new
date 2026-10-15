@@ -11,5 +11,5 @@
 
 </div>
 <div align="center">
-  <img src="banner.png" alt="Pirate adventure banner" width="100%">
+  <img src="One Piece GitHub README Tutorial.png" alt="Pirate adventure banner" width="100%">
 </div>
