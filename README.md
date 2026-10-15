@@ -11,11 +11,4 @@
 
 </div>
 
-<div align="center">
-  <img
-    src="https://raw.githubusercontent.com/Bipinchams/new/main/One%20Piece%20GitHub%20README%20Tutorial.png"
-    alt="One Piece GitHub README Tutorial"
-    width="100%"
-  >
-</div>
 
