@@ -10,9 +10,6 @@
 🌊 Sailing the Grand Line of Web Development 🌊
 
 </div>
-<div align="center">
-  <img src="One Piece GitHub README Tutorial.png" alt="Pirate adventure banner" width="100%">
-</div>
 
 <div align="center">
   <img
