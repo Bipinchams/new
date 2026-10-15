@@ -39,3 +39,16 @@
 - 🎨 Interested in web design and UI/UX
 - 🌱 Building my skills one project at a time
 
+---
+
+<div align="center">
+
+## ⚔️ MY TECH ARSENAL
+
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode&theme=dark"
+     alt="HTML, CSS, JavaScript, Git, GitHub, and VS Code icons">
+
+**Currently learning:** JavaScript & Frontend Development
+
+</div>
+
