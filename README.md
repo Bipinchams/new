@@ -16,3 +16,26 @@
        width="100%">
 </div>
 
+---
+
+<div align="center">
+
+# ☠️ WANTED ☠️
+
+## BIPIN RAI
+
+### FUTURE FRONTEND DEVELOPER
+
+*"My code, my adventure. The journey never ends!"*
+
+</div>
+
+---
+
+### 🏴‍☠️ About Me
+
+- 🎓 Web & App Development student in Japan 🇯🇵
+- 💻 Learning HTML, CSS, and JavaScript
+- 🎨 Interested in web design and UI/UX
+- 🌱 Building my skills one project at a time
+
