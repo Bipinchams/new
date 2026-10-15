@@ -110,3 +110,25 @@ Microsoft Excel · Microsoft Word · Microsoft PowerPoint
 </div>
 
 
+---
+
+<div align="center">
+
+## ☠️ THE ADVENTURE NEVER ENDS ☠️
+
+*"A pirate never gives up on the journey toward their dream!"*
+
+🌊 Learning • 💻 Building • 🚀 Growing
+
+### 🏴‍☠️ Find Me on the Seas
+
+<a href="https://github.com/bipinchams">
+  <img src="https://img.shields.io/badge/GitHub-Bipinchams-181717?style=for-the-badge&logo=github" alt="GitHub profile">
+</a>
+
+<br><br>
+
+**Thanks for visiting my crew! ⚓**
+
+</div>
+
